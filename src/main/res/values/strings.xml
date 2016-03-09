@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name"></string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_section1">Próspectos</string>
+    <string name="title_section2">Oportunidads</string>
+    <string name="title_section3">Clientes</string>
+
+    <string name="search">Buscar</string>
+    <string name="action_settings">Configuración</string>
+
+
+    <!--lorem-->
+    <string name="lorem">Lorem ipsum dolor sit amet,
+        consectetur adipisicing elit. Aliquam corporis deserunt, doloremque doloribus ducimus
+        eligendi harum ipsam, itaque laudantium nesciunt odio porro quod quos reiciendis
+        repudiandae rerum soluta vel, voluptates.
+    </string>
+    <string name="title_activity_inactivo">Inactivo</string>
+    <string name="title_activity_mantenimiento">Mantenimiento</string>
+
+</resources>
